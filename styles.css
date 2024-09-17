@@ -2,3 +2,9 @@ body {
 	background-color: #E7E9FC ;
     font-family: "Raleway", sans-serif;
 }
+.navigation li{
+    color:2E2F42;
+    font-weight: bold;
+    list-style-type: none;
+    text-decoration: none;
+}
