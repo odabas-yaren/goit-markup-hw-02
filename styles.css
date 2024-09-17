@@ -1,10 +1,9 @@
-body {
-	background-color: #E7E9FC ;
-    font-family: "Raleway", sans-serif;
-}
-.navigation li{
-    color:2E2F42;
+header{
+    font-family: "Roboto", sans-serif;
     font-weight: bold;
-    list-style-type: none;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height: 60px;
     text-decoration: none;
+    list-style-type: none;
 }
