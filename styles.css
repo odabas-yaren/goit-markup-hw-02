@@ -1,9 +1,38 @@
-header{
-    font-family: "Roboto", sans-serif;
-    font-weight: bold;
-    font-size: 56px;
-    letter-spacing: 2%;
-    line-height: 60px;
-    text-decoration: none;
+.blue{
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 56px;
+  letter-spacing: 2%;
+  line-height: 60px;
+  color:#4D5AE5;
+}
+.black{
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 56px;
+  letter-spacing: 2%;
+  line-height: 60px;
+  color:#2E2F42;
+}
+a:link {
+  text-decoration: none;
+  color:#434455;
+
+}
+.nav {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  letter-spacing: 2%;
+  color:#2E2F42
+}
+.mail-tel {
+  font-family: "Roboto", sans-serif;
+  font-weight: medium;
+  font-size: 20px;
+  letter-spacing: 2%;
+  font-style: normal;
+}
+ul{
     list-style-type: none;
 }
