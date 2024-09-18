@@ -1,3 +1,7 @@
+body {
+background: #FFFFFF;
+}
+
 .blue{
   font-family: "Roboto", sans-serif;
   font-weight: bold;
@@ -19,7 +23,7 @@ a:link {
   color:#434455;
 
 }
-.nav {
+.menu-list{
   font-family: "Roboto", sans-serif;
   font-weight: bold;
   font-size: 36px;
@@ -35,4 +39,64 @@ a:link {
 }
 ul{
     list-style-type: none;
+}
+
+.main-page{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 60px;
+text-align: center;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
+.second-section {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.second-section h3 {
+color: #2E2F42
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.02em;
+}
+.third-section h2{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 40px;
+text-align: center;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.third-section h3{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.third-section p{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+letter-spacing: 0.02em;
+color: #434455;
 }
