@@ -50,7 +50,7 @@ text-decoration: none;
 color: #2E2F42;
 
 }
-.main-page .title {
+.main-page title {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -60,20 +60,7 @@ color: #2E2F42;
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-
-.mini-title {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 24px;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.second-section .text{
-
-}
-.third-section h3 {
+.third-section .mini-title {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
