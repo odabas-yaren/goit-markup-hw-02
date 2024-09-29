@@ -10,7 +10,7 @@ a:link {
   color: #434455;
 }
 .page-header {
-  color:#2e2f42;
+  color: #2e2f42;
 }
 .plan-name {
   font-weight: 700;
@@ -21,7 +21,7 @@ a:link {
   font-family: "Raleway", sans-serif;
   color: #4d5ae5;
 }
-.logo{
+.logo {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -39,18 +39,39 @@ a:link {
   color: #2e2f42;
   font-family: "Raleway", sans-serif;
 }
-.page-list{
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.02em;
-text-decoration: none;
-color: #2E2F42;
-
+.page-list {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  color: #2e2f42;
 }
-.main-page title {
+.page-list:hover {
+  color: #404bbf;
+}
+.page-list:focus {
+  color: #404bbf;
+}
+.page-mn {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.page-mn:hover {
+  color: #404bbf;
+}
+.page-mn:focus {
+  color: #404bbf;
+}
+.adress{
+font-style: normal;
+}
+.main-page {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -59,8 +80,11 @@ color: #2E2F42;
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
+  background: #2e2f42;
+  width: 1440;
+  height: 600;
 }
-.third-section .mini-title {
+.third-section > h3 {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -70,7 +94,7 @@ color: #2E2F42;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.third-section p {
+.third-section > .explanation-paragraph {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -80,3 +104,22 @@ color: #2E2F42;
   letter-spacing: 0.02em;
   color: #434455;
 }
+.service-btn {
+  cursor: pointer;
+  background: #4d5ae5;
+  justify-content: flex-start;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+.service-btn:hover {
+  background-color: #404BBF;
+
+}
+.service-btn:focus {
+  background-color: #404BBF;
+}
+
